@@ -34,22 +34,11 @@
        fy="19.03125"
        r="8.0625" />
     <linearGradient
-       id="linearGradient2264">
-      <stop
-         style="stop-color:#d7e866;stop-opacity:1;"
-         offset="0"
-         id="stop2266" />
-      <stop
-         style="stop-color:#8cab2a;stop-opacity:1;"
-         offset="1"
-         id="stop2268" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient2264"
+       xlink:href="#linearGradient3242-7-3-8-0-4-58-06"
        id="linearGradient3292"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.4917505,-0.482368,0,23.524238,22.407852)"
-       x1="28.314739"
+       x1="42.84296"
        y1="20.709501"
        x2="0.81572169"
        y2="20.709501" />
@@ -73,6 +62,25 @@
        y1="25.410501"
        x2="57.726395"
        y2="25.410501" />
+    <linearGradient
+       id="linearGradient3242-7-3-8-0-4-58-06">
+      <stop
+         id="stop3244-5-8-5-6-4-3-8"
+         style="stop-color:#cdf87e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3246-9-5-1-5-3-0-7"
+         style="stop-color:#a2e34f;stop-opacity:1"
+         offset="0.26238" />
+      <stop
+         id="stop3248-7-2-0-7-5-35-9"
+         style="stop-color:#68b723;stop-opacity:1"
+         offset="0.66093999" />
+      <stop
+         id="stop3250-8-2-8-5-6-40-4"
+         style="stop-color:#1d7e0d;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata2502">
@@ -95,10 +103,14 @@
     <path
        id="path3288"
        d="M 21.507286,10.499999 L 11.976116,21.507286 L 2.492714,10.499999 L 6.5,10.499999 L 6.5,1.4927132 L 17.5,1.4927132 L 17.5,10.499999 L 21.507286,10.499999 z"
-       style="display:inline;fill:url(#linearGradient3292);fill-opacity:1;fill-rule:nonzero;stroke:#699536;stroke-width:0.98542732000000000;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible" />
+       style="display:inline;fill:url(#linearGradient3292);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98542732;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible" />
     <path
        id="path3290"
        d="M 19.3874,11.499999 L 12,20.032054 L 4.661523,11.499999 L 7.5,11.499999 L 7.5,2.4999992 L 16.5,2.4999992 L 16.5,11.499999 L 19.3874,11.499999 z"
        style="display:inline;opacity:0.35400002000000003;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3294);stroke-width:0.98542732000000000;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible" />
+    <path
+       style="display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0f5a00;stroke-width:0.98542732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;opacity:0.5"
+       d="M 21.507286,10.499999 11.976116,21.507286 2.492714,10.499999 H 6.5 V 1.4927132 h 11 v 9.0072858 z"
+       id="path845" />
   </g>
 </svg>
